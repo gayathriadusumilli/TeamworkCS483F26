@@ -2,6 +2,6 @@
 
 Members:
 - Yousuf Hussain: Team Coordinator
-- Teammate 2
+- Gayatri Adusumilli : Git workflow lead 
 - Teammate 3
 - Teammate 4
