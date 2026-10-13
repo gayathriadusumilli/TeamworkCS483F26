@@ -2,6 +2,6 @@
 
 Members:
 - Yousuf Hussain
-- Teammate 2
+- Gayatri Adusumilli
 - Teammate 3
 - Teammate 4
